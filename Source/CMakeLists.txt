@@ -1,3 +1,5 @@
+message(STATUS "LookingGlass: Building as a Remote VTK module")
+
 set(classes
   vtkLookingGlassInterface
   vtkLookingGlassPass
